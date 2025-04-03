@@ -1,0 +1,9 @@
+Hello,
+
+A one-time passcode associated with your username [EMAIL] was requested. Your one-time passcode is:
+
+24702864
+
+Please return to the login page and enter your passcode. This one-time use passcode will expire in 5 minutes.
+
+For further questions, please contact Customer Service. Click here for global support.
